@@ -52,6 +52,3 @@ If you have any further questions or need assistance, feel free to reach out to 
 - **LinkedIn**: [Srijan](https://www.linkedin.com/in/srijan0511/)
 - **Email**: [hellosrijanhere@gmail.com](mailto:hellosrijanhere@gmail.com)
 
----
-
-This should give a clean, readable, and informative structure to your README file!
