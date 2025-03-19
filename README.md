@@ -5,6 +5,7 @@
 <br>
 - <b> STEP 1:</b>
 <p> Clone the repository on your local machine</p>
+<br>
 - <b>STEP 2:</b>
 <P> Make sure you have the necessary libraries and updated python (version 3.11+). In this project we require flask so install it using pip. </P>
 <br>
