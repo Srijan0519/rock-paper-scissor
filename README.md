@@ -1,22 +1,57 @@
-# rock-paper-scissor
-<p>A simple demonstration of OOPS in python deployed using flask.</p> 
-<hr>
-### How to use? 
-<br>
-- <b> STEP 1:</b>
-<p> Clone the repository on your local machine</p>
-<br>
-- <b>STEP 2:</b>
-<P> Make sure you have the necessary libraries and updated python (version 3.11+). In this project we require flask so install it using pip. </P>
-<br>
-- <b>STEP 3:</b>
-<p>Run python app.py on your terminal, it will redirect you to your localhost on your preferred web browser (http://127.0.0.1:5000/). You can access the game there.</p>
-<br>
-### Additional recommendation:
-<p>
-1. Try dissecting the code and find ways to develop similar project using this template.
-2. Try adding a CSS file to improve the UI.
-</p>
 
-<hr>
-### For additional queries you can dm me on [linkedin](https://www.linkedin.com/in/srijan0511/) or write to me at hellosrijanhere@gmail.com
+# Rock-Paper-Scissors Game
+
+A simple demonstration of Object-Oriented Programming (OOP) in Python, deployed using Flask.
+
+---
+
+## How to Use
+
+### STEP 1: Clone the Repository
+Clone this repository to your local machine by running:
+
+```bash
+git clone https://github.com/your-repository-link.git
+```
+
+### STEP 2: Install Required Libraries
+Ensure you have Python version 3.11+ installed. Install the necessary libraries for the project, specifically Flask, by running:
+
+```bash
+pip install flask
+```
+
+### STEP 3: Run the Application
+Once the setup is complete, navigate to the project folder and run the following command in your terminal:
+
+```bash
+python app.py
+```
+
+This will start the Flask application and redirect you to your localhost at [http://127.0.0.1:5000/](http://127.0.0.1:5000/), where you can access and play the Rock-Paper-Scissors game.
+
+---
+
+## Output and screenshot
+
+1. **Input**: The program nudges the user to select between rock, paper and scissor using a dropdown menu.<br><br> ![input](https://github.com/Srijan0519/rock-paper-scissor/blob/main/screenshots/choice.jpg)
+2. **Output**: The program randomly chooses between the three and assesses win or loss. <br><br>![output](https://github.com/Srijan0519/rock-paper-scissor/blob/main/screenshots/result.jpg)
+
+---
+
+## Additional Recommendations
+
+1. **Experiment with the Code**: Dissect the existing code to better understand how it works and try building similar projects using this template.
+2. **UI Improvements**: Add a custom CSS file to improve the user interface and make the game visually appealing.
+
+---
+
+### Additional Queries
+If you have any further questions or need assistance, feel free to reach out to me:
+
+- **LinkedIn**: [Srijan](https://www.linkedin.com/in/srijan0511/)
+- **Email**: [hellosrijanhere@gmail.com](mailto:hellosrijanhere@gmail.com)
+
+---
+
+This should give a clean, readable, and informative structure to your README file!
