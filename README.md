@@ -10,7 +10,7 @@
 <P> Make sure you have the necessary libraries and updated python (version 3.11+). In this project we require flask so install it using pip. </P>
 <br>
 - <b>STEP 3:</b>
-Run python app.py on your terminal, it will redirect you to your localhost on your preferred web browser (http://127.0.0.1:5000/). You can access the game there.
+<p>Run python app.py on your terminal, it will redirect you to your localhost on your preferred web browser (http://127.0.0.1:5000/). You can access the game there.</p>
 <br>
 ### Additional recommendation:
 - Try dissecting the code and find ways to develop similar project using this template.
