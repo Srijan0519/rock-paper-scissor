@@ -1,11 +1,13 @@
 # rock-paper-scissor
 <p>A simple demonstration of OOPS in python deployed using flask.</p> 
 <hr>
-### How to use?
+### How to use? 
+<br>
 - <b> STEP 1:</b>
 <p> Clone the repository on your local machine</p>
 - <b>STEP 2:</b>
 <P> Make sure you have the necessary libraries and updated python (version 3.11+). In this project we require flask so install it using pip. </P>
+<br>
 - <b>STEP 3:</b>
 Run python app.py on your terminal, it will redirect you to your localhost on your preferred web browser (http://127.0.0.1:5000/). You can access the game there.
 <br>
