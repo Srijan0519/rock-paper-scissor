@@ -14,8 +14,8 @@
 <br>
 ### Additional recommendation:
 <p>
-  - Try dissecting the code and find ways to develop similar project using this template.
-- Try adding a CSS file to improve the UI.
+1. Try dissecting the code and find ways to develop similar project using this template.
+2. Try adding a CSS file to improve the UI.
 </p>
 
 <hr>
