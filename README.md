@@ -13,7 +13,10 @@
 <p>Run python app.py on your terminal, it will redirect you to your localhost on your preferred web browser (http://127.0.0.1:5000/). You can access the game there.</p>
 <br>
 ### Additional recommendation:
-- Try dissecting the code and find ways to develop similar project using this template.
+<p>
+  - Try dissecting the code and find ways to develop similar project using this template.
 - Try adding a CSS file to improve the UI.
+</p>
+
 <hr>
 ### For additional queries you can dm me on [linkedin](https://www.linkedin.com/in/srijan0511/) or write to me at hellosrijanhere@gmail.com
