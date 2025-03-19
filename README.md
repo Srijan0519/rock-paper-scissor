@@ -11,7 +11,7 @@ A simple demonstration of Object-Oriented Programming (OOP) in Python, deployed 
 Clone this repository to your local machine by running:
 
 ```bash
-git clone https://github.com/your-repository-link.git
+git clone https://github.com/Srijan0519/rock-paper-scissor.git
 ```
 
 ### STEP 2: Install Required Libraries
